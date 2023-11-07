@@ -23,7 +23,7 @@ MSRA10K: https://mmcheng.net/msra10k/
 train_new.py implements the progressive training.<br />
 The dataloader in this file is for the MSRA10K dataset.
 
-After changing the data dictionary in train_new.py to your own ones, you can run train.new to train the model.
+After changing the data dictionaries in train_new.py to your own ones, you can run train_new.py to train the model.
 
 
 
