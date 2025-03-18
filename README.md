@@ -3,7 +3,7 @@
 This is the Pytorch code for "PottsMGNet: A mathematical explanation of encoder-decoder based neural networks" by Xue-Cheng Tai, Hao Liu and Raymond Chan.
 
 If this code is useful, pleae cite our paper
-https://arxiv.org/abs/2307.09039.
+https://epubs.siam.org/doi/abs/10.1137/23M1586355
 
 Copyright (c) Hao Liu (haoliu AT hkbu.edu.hk)
 Department of Mathematics,
